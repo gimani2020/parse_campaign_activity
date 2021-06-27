@@ -5,7 +5,9 @@ Python script to to parse active campaign_activity from raw_data.zip file
 ### Prerequisites
 
 linux machine
-python 3.6 
+
+python 3.6
+
 raw_data_fiels.zip 
 
   
